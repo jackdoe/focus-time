@@ -10,3 +10,8 @@ $ ./timer 80 white
 ```
 
 ![screenshot](screenshot.png)
+
+
+# font
+
+https://github.com/rbanffy/3270font
